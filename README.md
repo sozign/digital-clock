@@ -1,2 +1,2 @@
 # digital-clock
-digital clock project in [Digital Logic Circuit]
+digital clock project in [Digital Logic Circuit] class
